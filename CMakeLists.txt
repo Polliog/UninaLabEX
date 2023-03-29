@@ -6,6 +6,10 @@ set(CMAKE_C_STANDARD 23)
 add_executable(Lezione1 Lezioni/lezione1.c)
 add_executable(Lezione2 Lezioni/lezione2.c)
 
+add_executable(Lezione5 Lezioni/lezione5.c)
+add_executable(Lezione52 Lezioni/5/2.c)
+add_executable(Lezione53 Lezioni/5/3.c)
+add_executable(Lezione54 Lezioni/5/4.c)
 #Esercitazioni
 add_executable(Esercitazione11 Esercizi/1/1.c)
 add_executable(Esercitazione12 Esercizi/1/2.c)
