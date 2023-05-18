@@ -130,3 +130,6 @@ add_executable(Esercitazione415 Esercizi/4/2/11.c)
 add_executable(Esercitazione416 Esercizi/4/2/12.c)
 add_executable(Esercitazione417 Esercizi/4/2/13.c)
 add_executable(Esercitazione418 Esercizi/4/2/14.c)
+
+add_executable(Structs1 Esercizi/structs/1.c)
+add_executable(Structs2 Esercizi/structs/2/2.c)
