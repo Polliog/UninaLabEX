@@ -133,3 +133,25 @@ add_executable(Esercitazione418 Esercizi/4/2/14.c)
 
 add_executable(Structs1 Esercizi/structs/1.c)
 add_executable(Structs2 Esercizi/structs/2/2.c)
+
+add_executable(Ricorsione1 Esercizi/ricorsione/1/1.c)
+add_executable(Ricorsione2 Esercizi/ricorsione/1/2.c)
+add_executable(Ricorsione3 Esercizi/ricorsione/1/3.c)
+add_executable(Ricorsione4 Esercizi/ricorsione/1/4.c)
+add_executable(Ricorsione5 Esercizi/ricorsione/1/5.c)
+add_executable(Ricorsione6 Esercizi/ricorsione/1/6.c)
+add_executable(Ricorsione7 Esercizi/ricorsione/1/7.c)
+add_executable(Ricorsione8 Esercizi/ricorsione/1/8.c)
+
+add_executable(Ricorsione9 Esercizi/ricorsione/2/1.c)
+add_executable(Ricorsione10 Esercizi/ricorsione/2/2.c)
+add_executable(Ricorsione11 Esercizi/ricorsione/2/3.c)
+add_executable(Ricorsione12 Esercizi/ricorsione/2/4.c)
+
+add_executable(Impiccato Esercizi/random_file/impiccato/main.c)
+add_executable(Cassaforte Esercizi/random_file/cassaforte/main.c)
+
+
+add_executable(Test1 Test/dynmatrix.c)
+add_executable(Test2 Test/time.c)
+add_executable(Test3 Test/random.c)
