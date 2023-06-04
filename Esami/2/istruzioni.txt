@@ -1,0 +1,6 @@
+#Compilo il file funzioni.c e dara' origine al file oggetto funzioni.o
+    gcc -c funzioni.c
+#Compilo il file main.c e dara' origine al file oggetto main.o
+    gcc -c main.c
+#Linko i file oggetto e creo l'eseguibile
+    gcc main.o funzioni.o -o utente_numero_di_matricola.eseguibile
