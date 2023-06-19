@@ -1,0 +1,9 @@
+Luca Verdi 364 AnalisiI 16
+Enzo Blu 367 analisiI 14
+Mario Rossi 272 programmazioneI 27
+Luca Verdi 364 basididati1 16
+Enzo Blu 367 basididati1 14
+Anna Bianco 471 algebra 23
+Mario Rossi 272 algebra 30
+Luca Verdi 364 geometria 16
+Enzo Blu 367 algebra 14

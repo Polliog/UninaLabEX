@@ -1,0 +1,3 @@
+Creo il file oggetto per il file main.c -> gcc -c main.c
+Creo il file oggetto per il file functions.c -> gcc -c functions.c
+Operazione di linking tra main.o e functions.o -> gcc main.o functions.o -o nomefile.eseguibile

@@ -1,0 +1,6 @@
+Genera il file oggetto per main.c
+gcc -c main.c
+Genera il file oggetto per functions.c
+gcc -c functions.c
+Effettua il linking tra main.o e functions.o => verra generato l'eseguibile del programma
+gcc main.o functions.o -o prog_NXXXX.eseguibile

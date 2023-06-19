@@ -155,6 +155,7 @@ add_executable(Cassaforte Esercizi/random_file/cassaforte/main.c)
 add_executable(Test1 Test/dynmatrix.c)
 add_executable(Test2 Test/time.c)
 add_executable(Test3 Test/random.c)
+add_executable(Test4 Test/provapile.c)
 
 
 add_executable(Esame1 Esami/1/main.c Esami/1/funzioni.c Esami/1/funzioni.h)

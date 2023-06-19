@@ -1,0 +1,13 @@
+//creare il file oggetto per main.c
+gcc -c main.c
+//creare il file oggetto per functions.o
+gcc -c functions.c
+//creazione dell'eseguibile e linking tra main.o e functions.o
+gcc main.o functions.o -o prog_numerodimatricola.out
+//Esecuzione
+./prog_numerodimatricola.out
+
+//Per fare tutto in una sola riga:
+gcc -c main.c && gcc -c functions.c && gcc main.o functions.o -o prog_numerodimatricola.out ** ./prog_numerodimatricola.out**
+
+Editor di testo utilizzato: VIM

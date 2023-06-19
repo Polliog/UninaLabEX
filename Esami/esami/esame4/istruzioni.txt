@@ -1,0 +1,4 @@
+Creo il file oggetto di function.c -> gcc -c function.c
+Creo il file oggetto di main.c -> gcc -c main.c
+Creo il file eseguibile -> gcc -o main main.o function.o
+Eseguo il file eseguibile -> ./main
